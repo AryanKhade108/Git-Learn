@@ -55,6 +55,8 @@ Your goal is to safely restore the repository to normal operation without losing
 - Do **not** re-initialize the repository.
 - Use Git commands to navigate back to safety.
 
+pavani
+
 ---
 
 ## 🧪 How to Verify Your Solution
