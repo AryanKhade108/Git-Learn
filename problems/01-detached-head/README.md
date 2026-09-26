@@ -8,6 +8,7 @@
 ## 📖 The Scenario
 
 Late last night, you were reviewing your team's Python calculator project (`calculator.py`). You wanted to inspect how the multiplication feature was implemented before your partner added documentation. 
+codex event 2026
 
 You ran a command to jump back in time to that specific snapshot. You examined the file, tested it, and everything looked great! 
 
